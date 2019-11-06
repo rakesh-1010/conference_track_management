@@ -1,0 +1,9 @@
+talk1 60min
+talk2 60min
+talk3 60min
+talk4 30min
+talk5 30min
+talk6 20min
+talk7 50min
+talk8 50min
+
